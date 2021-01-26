@@ -25,14 +25,7 @@
               <td class="table-data-button">
                 <label>
                   <button id="login-btn">
-                    <router-link id="login-link" to="/">Log In</router-link>
-                  </button>
-                </label>
-              </td>
-              <td class="table-data-button">
-                <label>
-                  <button id="lets-auth-btn">
-                    <router-link id="login-link" to="/signin">Let's Auth</router-link>
+                    <router-link id="login-link" to="/home">Log In</router-link>
                   </button>
                 </label>
               </td>
@@ -41,7 +34,9 @@
               <td class="table-data"></td>
               <td class="table-data">
                 <div>
-                  <router-link id="forgot-account" to="/">Forgot account?</router-link>
+                  <router-link id="forgot-account" to="/"
+                    >Forgot account?</router-link
+                  >
                 </div>
               </td>
             </tr>
@@ -81,15 +76,27 @@
           <div class="form-container">
             <form>
               <div class="name-input-container">
-                <input class="sign-up-input first-name" type="text" placeholder="First name" />
-                <input class="sign-up-input last-name" type="text" placeholder="Last name" />
+                <input
+                  class="sign-up-input first-name"
+                  type="text"
+                  placeholder="First name"
+                />
+                <input
+                  class="sign-up-input last-name"
+                  type="text"
+                  placeholder="Last name"
+                />
               </div>
               <input
                 class="sign-up-input mobile-input"
                 type="text"
                 placeholder="Mobile number or email"
               />
-              <input class="sign-up-input password-input" type="text" placeholder="New password" />
+              <input
+                class="sign-up-input password-input"
+                type="text"
+                placeholder="New password"
+              />
               <div id="birthday-wrapper">
                 <div class="birthday-title">Birthday</div>
                 <div class="birthday-data">
@@ -328,13 +335,10 @@
               </div>
               <p class="terms-paragraph">
                 By clicking Sign Up, you agree to our
-                <a
-                  href="#"
-                  id="terms-link"
-                  rel="nofollow"
-                >Terms</a>,
+                <a href="#" id="terms-link" rel="nofollow">Terms</a>,
                 <a href="#" id="privacy-link">Data Policy</a> and
-                <a href="#" id="cookie-use-link">Cookies Policy</a>. You may receive SMS Notifications from us and can opt out any time.
+                <a href="#" id="cookie-use-link">Cookies Policy</a>. You may
+                receive SMS Notifications from us and can opt out any time.
               </p>
               <div class="sign-up-btn-container">
                 <button class="sign-up-btn">Sign Up</button>
@@ -342,7 +346,8 @@
             </form>
           </div>
           <div class="create-container">
-            <a href="#" class="create-link">Create a Page</a> for a celebrity, band or business.
+            <a href="#" class="create-link">Create a Page</a> for a celebrity,
+            band or business.
           </div>
         </div>
       </div>
@@ -356,16 +361,26 @@
               <a class="li-link" dir="ltr" href="#" title="Spanish">Español</a>
             </li>
             <li>
-              <a class="li-link" dir="ltr" href="#" title="French (France)">Français (France)</a>
+              <a class="li-link" dir="ltr" href="#" title="French (France)"
+                >Français (France)</a
+              >
             </li>
             <li>
-              <a class="li-link" dir="ltr" href="#" title="Simplified Chinese (China)">中文(简体)</a>
+              <a
+                class="li-link"
+                dir="ltr"
+                href="#"
+                title="Simplified Chinese (China)"
+                >中文(简体)</a
+              >
             </li>
             <li>
               <a class="li-link" dir="rtl" href="#" title="Arabic">العربية</a>
             </li>
             <li>
-              <a class="li-link" dir="ltr" href="#" title="Portuguese (Brazil)">Português (Brasil)</a>
+              <a class="li-link" dir="ltr" href="#" title="Portuguese (Brazil)"
+                >Português (Brasil)</a
+              >
             </li>
             <li>
               <a class="li-link" dir="ltr" href="#" title="Korean">한국어</a>
@@ -388,81 +403,134 @@
         <div id="page-footer-children" aria-label="Facebook site links">
           <ul class="ul-list page-footer-link-list">
             <li>
-              <a class="li-link" href="#" title="Sign Up for Facebook">Sign Up</a>
+              <a class="li-link" href="#" title="Sign Up for Facebook"
+                >Sign Up</a
+              >
             </li>
             <li>
               <a class="li-link" href="#" title="Log into Facebook">Log In</a>
             </li>
             <li>
-              <a class="li-link" href="#" title="Check out Messenger.">Messenger</a>
+              <a class="li-link" href="#" title="Check out Messenger."
+                >Messenger</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Facebook Lite for Android.">Facebook Lite</a>
+              <a class="li-link" href="#" title="Facebook Lite for Android."
+                >Facebook Lite</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Browse our Watch videos.">Watch</a>
+              <a class="li-link" href="#" title="Browse our Watch videos."
+                >Watch</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Browse our people directory.">People</a>
+              <a class="li-link" href="#" title="Browse our people directory."
+                >People</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Browse our pages directory.">Pages</a>
+              <a class="li-link" href="#" title="Browse our pages directory."
+                >Pages</a
+              >
             </li>
             <li>
               <a class="li-link" href="#">Page Categories</a>
             </li>
             <li>
-              <a class="li-link" href="#" title="Check out popular places on Facebook.">Places</a>
+              <a
+                class="li-link"
+                href="#"
+                title="Check out popular places on Facebook."
+                >Places</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Check out Facebook games.">Games</a>
+              <a class="li-link" href="#" title="Check out Facebook games."
+                >Games</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Browse our places directory.">Locations</a>
+              <a class="li-link" href="#" title="Browse our places directory."
+                >Locations</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Buy and sell on Facebook Marketplace.">Marketplace</a>
+              <a
+                class="li-link"
+                href="#"
+                title="Buy and sell on Facebook Marketplace."
+                >Marketplace</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Browse our Groups directory.">Groups</a>
+              <a class="li-link" href="#" title="Browse our Groups directory."
+                >Groups</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Learn more about Portal from Facebook">Portal</a>
+              <a
+                class="li-link"
+                href="#"
+                title="Learn more about Portal from Facebook"
+                >Portal</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Check out Instagram">Instagram</a>
+              <a class="li-link" href="#" title="Check out Instagram"
+                >Instagram</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Browse our Local Lists directory.">Local</a>
+              <a
+                class="li-link"
+                href="#"
+                title="Browse our Local Lists directory."
+                >Local</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Donate to worthy causes.">Fundraisers</a>
+              <a class="li-link" href="#" title="Donate to worthy causes."
+                >Fundraisers</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Browse our Facebook Services directory.">Services</a>
+              <a
+                class="li-link"
+                href="#"
+                title="Browse our Facebook Services directory."
+                >Services</a
+              >
             </li>
             <li>
               <a
                 class="li-link"
                 href="#"
                 title="Read our blog, discover the resource center, and find job opportunities."
-              >About</a>
+                >About</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Advertise on Facebook.">Create Ad</a>
+              <a class="li-link" href="#" title="Advertise on Facebook."
+                >Create Ad</a
+              >
             </li>
             <li>
               <a class="li-link" href="#" title="Create a Page">Create Page</a>
             </li>
             <li>
-              <a class="li-link" href="#" title="Develop on our platform.">Developers</a>
+              <a class="li-link" href="#" title="Develop on our platform."
+                >Developers</a
+              >
             </li>
             <li>
               <a
                 class="li-link"
                 href="#"
                 title="Make your next career move to our awesome company."
-              >Careers</a>
+                >Careers</a
+              >
             </li>
             <li>
               <a
@@ -470,7 +538,8 @@
                 data-nocookies="1"
                 href="#"
                 title="Learn about your privacy and Facebook."
-              >Privacy</a>
+                >Privacy</a
+              >
             </li>
             <li>
               <a
@@ -478,7 +547,8 @@
                 href="#"
                 title="Learn about cookies and Facebook."
                 data-nocookies="1"
-              >Cookies</a>
+                >Cookies</a
+              >
             </li>
             <li>
               <a
@@ -486,13 +556,18 @@
                 data-nocookies="1"
                 href="#"
                 title="Learn about Ad Choices."
-              >Ad Choices</a>
+                >Ad Choices</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Review our terms and policies.">Terms</a>
+              <a class="li-link" href="#" title="Review our terms and policies."
+                >Terms</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Visit our Help Center.">Help</a>
+              <a class="li-link" href="#" title="Visit our Help Center."
+                >Help</a
+              >
             </li>
           </ul>
         </div>

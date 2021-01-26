@@ -160,7 +160,9 @@
           </div>
           <div class="post-container post-shadow">
             <div class="post-header">
-              <img src="https://s3.amazonaws.com/uifaces/faces/twitter/joannefournier/128.jpg" />
+              <img
+                src="https://s3.amazonaws.com/uifaces/faces/twitter/joannefournier/128.jpg"
+              />
               <div class="post-header-middle">
                 <h4>
                   Melody Mann
@@ -172,8 +174,8 @@
             </div>
             <div class="post-content">
               <span>
-                Velit odit quidem laudantium. Ut molestiae adipisci molestias temporibus dicta.
-                Placeat excepturi ipsum earum voluptates.
+                Velit odit quidem laudantium. Ut molestiae adipisci molestias
+                temporibus dicta. Placeat excepturi ipsum earum voluptates.
               </span>
               <img
                 class="post-image"
@@ -222,7 +224,9 @@
           </div>
           <div class="post-container post-shadow">
             <div class="post-header">
-              <img src="https://s3.amazonaws.com/uifaces/faces/twitter/billyroshan/128.jpg" />
+              <img
+                src="https://s3.amazonaws.com/uifaces/faces/twitter/billyroshan/128.jpg"
+              />
               <div class="post-header-middle">
                 <h4>
                   Rowan O'Connell
@@ -234,8 +238,9 @@
             </div>
             <div class="post-content">
               <span>
-                Neque sed officiis ratione dolores. Laborum magnam amet adipisci iure iste quia.
-                Aliquid inventore consequatur. Omnis esse animi soluta repudiandae aut enim voluptas quia omnis.
+                Neque sed officiis ratione dolores. Laborum magnam amet adipisci
+                iure iste quia. Aliquid inventore consequatur. Omnis esse animi
+                soluta repudiandae aut enim voluptas quia omnis.
               </span>
               <img
                 class="post-image"
@@ -283,7 +288,9 @@
           </div>
           <div class="post-container post-shadow">
             <div class="post-header">
-              <img src="https://s3.amazonaws.com/uifaces/faces/twitter/hasslunsford/128.jpg" />
+              <img
+                src="https://s3.amazonaws.com/uifaces/faces/twitter/hasslunsford/128.jpg"
+              />
               <div class="post-header-middle">
                 <h4>
                   Verla Murray
@@ -295,9 +302,11 @@
             </div>
             <div class="post-content">
               <span>
-                Quos quas recusandae voluptatem eius earum quam. Minus et distinctio autem aspernatur.
-                Ipsam sunt consequatur ullam tenetur praesentium quibusdam omnis.
-                Voluptatem perferendis repellat sit laboriosam sunt. Dolor ut voluptates earum laborum eius.
+                Quos quas recusandae voluptatem eius earum quam. Minus et
+                distinctio autem aspernatur. Ipsam sunt consequatur ullam
+                tenetur praesentium quibusdam omnis. Voluptatem perferendis
+                repellat sit laboriosam sunt. Dolor ut voluptates earum laborum
+                eius.
               </span>
               <img
                 class="post-image"
@@ -356,7 +365,7 @@ export default {
   methods: {
     async logout() {
       let response = await axios.post("/api/logout", {
-        sessionID: this.$root.$data.sessionID
+        sessionID: this.$root.$data.sessionID,
       });
 
       if (response.status == 200) {
@@ -364,8 +373,8 @@ export default {
         this.$router.push({ path: "/" });
         location.reload();
       }
-    }
-  }
+    },
+  },
 };
 </script>
 

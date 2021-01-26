@@ -332,7 +332,7 @@ export default {
   methods: {
     async logout() {
       let response = await axios.post("/api/logout", {
-        sessionID: this.$root.$data.sessionID
+        sessionID: this.$root.$data.sessionID,
       });
 
       if (response.status == 200) {
@@ -340,8 +340,8 @@ export default {
         this.$router.push({ path: "/" });
         location.reload();
       }
-    }
-  }
+    },
+  },
 };
 </script>
 

@@ -11,7 +11,9 @@
       <div class="main-content">
         <center>
           <div class="sign-up">
-            <h1>We just need a little more information to create your account.</h1>
+            <h1>
+              We just need a little more information to create your account.
+            </h1>
             <div class="input-fields">
               <form v-on:submit.prevent="register" class="pure-form">
                 <input v-model="firstName" placeholder="First name" />
@@ -36,16 +38,26 @@
               <a class="li-link" dir="ltr" href="#" title="Spanish">Español</a>
             </li>
             <li>
-              <a class="li-link" dir="ltr" href="#" title="French (France)">Français (France)</a>
+              <a class="li-link" dir="ltr" href="#" title="French (France)"
+                >Français (France)</a
+              >
             </li>
             <li>
-              <a class="li-link" dir="ltr" href="#" title="Simplified Chinese (China)">中文(简体)</a>
+              <a
+                class="li-link"
+                dir="ltr"
+                href="#"
+                title="Simplified Chinese (China)"
+                >中文(简体)</a
+              >
             </li>
             <li>
               <a class="li-link" dir="rtl" href="#" title="Arabic">العربية</a>
             </li>
             <li>
-              <a class="li-link" dir="ltr" href="#" title="Portuguese (Brazil)">Português (Brasil)</a>
+              <a class="li-link" dir="ltr" href="#" title="Portuguese (Brazil)"
+                >Português (Brasil)</a
+              >
             </li>
             <li>
               <a class="li-link" dir="ltr" href="#" title="Korean">한국어</a>
@@ -68,81 +80,134 @@
         <div id="page-footer-children" aria-label="Facebook site links">
           <ul class="ul-list page-footer-link-list">
             <li>
-              <a class="li-link" href="#" title="Sign Up for Facebook">Sign Up</a>
+              <a class="li-link" href="#" title="Sign Up for Facebook"
+                >Sign Up</a
+              >
             </li>
             <li>
               <a class="li-link" href="#" title="Log into Facebook">Log In</a>
             </li>
             <li>
-              <a class="li-link" href="#" title="Check out Messenger.">Messenger</a>
+              <a class="li-link" href="#" title="Check out Messenger."
+                >Messenger</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Facebook Lite for Android.">Facebook Lite</a>
+              <a class="li-link" href="#" title="Facebook Lite for Android."
+                >Facebook Lite</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Browse our Watch videos.">Watch</a>
+              <a class="li-link" href="#" title="Browse our Watch videos."
+                >Watch</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Browse our people directory.">People</a>
+              <a class="li-link" href="#" title="Browse our people directory."
+                >People</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Browse our pages directory.">Pages</a>
+              <a class="li-link" href="#" title="Browse our pages directory."
+                >Pages</a
+              >
             </li>
             <li>
               <a class="li-link" href="#">Page Categories</a>
             </li>
             <li>
-              <a class="li-link" href="#" title="Check out popular places on Facebook.">Places</a>
+              <a
+                class="li-link"
+                href="#"
+                title="Check out popular places on Facebook."
+                >Places</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Check out Facebook games.">Games</a>
+              <a class="li-link" href="#" title="Check out Facebook games."
+                >Games</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Browse our places directory.">Locations</a>
+              <a class="li-link" href="#" title="Browse our places directory."
+                >Locations</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Buy and sell on Facebook Marketplace.">Marketplace</a>
+              <a
+                class="li-link"
+                href="#"
+                title="Buy and sell on Facebook Marketplace."
+                >Marketplace</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Browse our Groups directory.">Groups</a>
+              <a class="li-link" href="#" title="Browse our Groups directory."
+                >Groups</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Learn more about Portal from Facebook">Portal</a>
+              <a
+                class="li-link"
+                href="#"
+                title="Learn more about Portal from Facebook"
+                >Portal</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Check out Instagram">Instagram</a>
+              <a class="li-link" href="#" title="Check out Instagram"
+                >Instagram</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Browse our Local Lists directory.">Local</a>
+              <a
+                class="li-link"
+                href="#"
+                title="Browse our Local Lists directory."
+                >Local</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Donate to worthy causes.">Fundraisers</a>
+              <a class="li-link" href="#" title="Donate to worthy causes."
+                >Fundraisers</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Browse our Facebook Services directory.">Services</a>
+              <a
+                class="li-link"
+                href="#"
+                title="Browse our Facebook Services directory."
+                >Services</a
+              >
             </li>
             <li>
               <a
                 class="li-link"
                 href="#"
                 title="Read our blog, discover the resource center, and find job opportunities."
-              >About</a>
+                >About</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Advertise on Facebook.">Create Ad</a>
+              <a class="li-link" href="#" title="Advertise on Facebook."
+                >Create Ad</a
+              >
             </li>
             <li>
               <a class="li-link" href="#" title="Create a Page">Create Page</a>
             </li>
             <li>
-              <a class="li-link" href="#" title="Develop on our platform.">Developers</a>
+              <a class="li-link" href="#" title="Develop on our platform."
+                >Developers</a
+              >
             </li>
             <li>
               <a
                 class="li-link"
                 href="#"
                 title="Make your next career move to our awesome company."
-              >Careers</a>
+                >Careers</a
+              >
             </li>
             <li>
               <a
@@ -150,7 +215,8 @@
                 data-nocookies="1"
                 href="#"
                 title="Learn about your privacy and Facebook."
-              >Privacy</a>
+                >Privacy</a
+              >
             </li>
             <li>
               <a
@@ -158,7 +224,8 @@
                 href="#"
                 title="Learn about cookies and Facebook."
                 data-nocookies="1"
-              >Cookies</a>
+                >Cookies</a
+              >
             </li>
             <li>
               <a
@@ -166,13 +233,18 @@
                 data-nocookies="1"
                 href="#"
                 title="Learn about Ad Choices."
-              >Ad Choices</a>
+                >Ad Choices</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Review our terms and policies.">Terms</a>
+              <a class="li-link" href="#" title="Review our terms and policies."
+                >Terms</a
+              >
             </li>
             <li>
-              <a class="li-link" href="#" title="Visit our Help Center.">Help</a>
+              <a class="li-link" href="#" title="Visit our Help Center."
+                >Help</a
+              >
             </li>
           </ul>
         </div>
@@ -193,7 +265,7 @@ export default {
   data() {
     return {
       firstName: "",
-      lastName: ""
+      lastName: "",
     };
   },
   methods: {
@@ -201,14 +273,14 @@ export default {
       let response = await axios.post("/api/register", {
         firstName: this.firstName,
         lastName: this.lastName,
-        sessionID: this.$root.$data.sessionID
+        sessionID: this.$root.$data.sessionID,
       });
       console.log(response);
       if (response.status === 200) {
         this.$router.push({ path: "/home" });
       }
-    }
-  }
+    },
+  },
 };
 </script>
 

@@ -280,7 +280,10 @@
                 <span>COVID-19 Buyers and Sellers</span>
               </div>
               <div class="blue-notif-desc">
-                <span>Please follow local guidelines about physical distancing and staying home.</span>
+                <span
+                  >Please follow local guidelines about physical distancing and
+                  staying home.</span
+                >
               </div>
               <div class="blue-notif-button" role="button">
                 <span>Learn More</span>
@@ -301,7 +304,7 @@ export default {
   methods: {
     async logout() {
       let response = await axios.post("/api/logout", {
-        sessionID: this.$root.$data.sessionID
+        sessionID: this.$root.$data.sessionID,
       });
 
       if (response.status == 200) {
@@ -309,8 +312,8 @@ export default {
         this.$router.push({ path: "/" });
         location.reload();
       }
-    }
-  }
+    },
+  },
 };
 </script>
 

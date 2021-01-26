@@ -111,19 +111,13 @@
           </div>
           <div class="thick-divider"></div>
           <div class="column-rec-button column-active">
-            <span>
-              <i class="fas fa-video"></i> Go Live
-            </span>
+            <span> <i class="fas fa-video"></i> Go Live </span>
           </div>
           <div class="column-rec-button">
-            <span>
-              <i class="fas fa-user"></i> Streamer Dashboard
-            </span>
+            <span> <i class="fas fa-user"></i> Streamer Dashboard </span>
           </div>
           <div class="column-rec-button">
-            <span>
-              <i class="fas fa-trophy"></i> Create Tournament Event
-            </span>
+            <span> <i class="fas fa-trophy"></i> Create Tournament Event </span>
           </div>
           <div class="thick-divider"></div>
           <div class="column-sub-title">
@@ -143,7 +137,7 @@ export default {
   methods: {
     async logout() {
       let response = await axios.post("/api/logout", {
-        sessionID: this.$root.$data.sessionID
+        sessionID: this.$root.$data.sessionID,
       });
 
       if (response.status == 200) {
@@ -151,8 +145,8 @@ export default {
         this.$router.push({ path: "/" });
         location.reload();
       }
-    }
-  }
+    },
+  },
 };
 </script>
 

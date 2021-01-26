@@ -172,7 +172,8 @@
             <span>
               &nbsp;
               <span aria-hidden="true">·&nbsp;</span>
-            </span> Facebook © 2020
+            </span>
+            Facebook © 2020
           </span>
         </div>
       </div>
@@ -230,21 +231,41 @@
             <div class="bottom-rooms">
               <div class="circles-container">
                 <img src="../../images/facebook-user.jpg" />
-                <img src="https://s3.amazonaws.com/uifaces/faces/twitter/aoimedia/128.jpg" />
-                <img src="https://s3.amazonaws.com/uifaces/faces/twitter/_dwite_/128.jpg" />
-                <img src="https://s3.amazonaws.com/uifaces/faces/twitter/sebashton/128.jpg" />
-                <img src="https://s3.amazonaws.com/uifaces/faces/twitter/kylefoundry/128.jpg" />
-                <img src="https://s3.amazonaws.com/uifaces/faces/twitter/vj_demien/128.jpg" />
-                <img src="https://s3.amazonaws.com/uifaces/faces/twitter/andrewarrow/128.jpg" />
-                <img src="https://s3.amazonaws.com/uifaces/faces/twitter/martip07/128.jpg" />
-                <img src="https://s3.amazonaws.com/uifaces/faces/twitter/bpartridge/128.jpg" />
-                <img src="https://s3.amazonaws.com/uifaces/faces/twitter/karlkanall/128.jpg" />
+                <img
+                  src="https://s3.amazonaws.com/uifaces/faces/twitter/aoimedia/128.jpg"
+                />
+                <img
+                  src="https://s3.amazonaws.com/uifaces/faces/twitter/_dwite_/128.jpg"
+                />
+                <img
+                  src="https://s3.amazonaws.com/uifaces/faces/twitter/sebashton/128.jpg"
+                />
+                <img
+                  src="https://s3.amazonaws.com/uifaces/faces/twitter/kylefoundry/128.jpg"
+                />
+                <img
+                  src="https://s3.amazonaws.com/uifaces/faces/twitter/vj_demien/128.jpg"
+                />
+                <img
+                  src="https://s3.amazonaws.com/uifaces/faces/twitter/andrewarrow/128.jpg"
+                />
+                <img
+                  src="https://s3.amazonaws.com/uifaces/faces/twitter/martip07/128.jpg"
+                />
+                <img
+                  src="https://s3.amazonaws.com/uifaces/faces/twitter/bpartridge/128.jpg"
+                />
+                <img
+                  src="https://s3.amazonaws.com/uifaces/faces/twitter/karlkanall/128.jpg"
+                />
               </div>
             </div>
           </div>
           <div class="post-container post-shadow">
             <div class="post-header">
-              <img src="https://s3.amazonaws.com/uifaces/faces/twitter/okandungel/128.jpg" />
+              <img
+                src="https://s3.amazonaws.com/uifaces/faces/twitter/okandungel/128.jpg"
+              />
               <div class="post-header-middle">
                 <h4>Dino Little</h4>
                 <span>1 hr</span>
@@ -253,9 +274,10 @@
             </div>
             <div class="post-content">
               <span>
-                Odit neque temporibus iusto. Dolores perferendis numquam minus sed quidem ab.
-                Blanditiis molestiae minus voluptatum. Et ex ut sit dolor labore ab culpa quia
-                voluptatem. Optio et aut suscipit vero ut non voluptatibus itaque et. Ut ex dolorem est iure.
+                Odit neque temporibus iusto. Dolores perferendis numquam minus
+                sed quidem ab. Blanditiis molestiae minus voluptatum. Et ex ut
+                sit dolor labore ab culpa quia voluptatem. Optio et aut suscipit
+                vero ut non voluptatibus itaque et. Ut ex dolorem est iure.
               </span>
             </div>
             <div class="post-bottom">
@@ -299,7 +321,9 @@
           </div>
           <div class="post-container post-shadow">
             <div class="post-header">
-              <img src="https://s3.amazonaws.com/uifaces/faces/twitter/envex/128.jpg" />
+              <img
+                src="https://s3.amazonaws.com/uifaces/faces/twitter/envex/128.jpg"
+              />
               <div class="post-header-middle">
                 <h4>Jamir Hane</h4>
                 <span>1 hr</span>
@@ -309,10 +333,13 @@
             <div class="post-content">
               <span>
                 Nisi non repellat accusamus iusto odit quisquam ad minus illo.
-                Mollitia quidem dignissimos ducimus eum. Deleniti omnis in veritatis
-                sed accusamus tempora. Minima iusto provident.
+                Mollitia quidem dignissimos ducimus eum. Deleniti omnis in
+                veritatis sed accusamus tempora. Minima iusto provident.
               </span>
-              <img class="post-image" src="https://miro.medium.com/max/1920/0*z1mm6izqSeDiKukb" />
+              <img
+                class="post-image"
+                src="https://miro.medium.com/max/1920/0*z1mm6izqSeDiKukb"
+              />
             </div>
             <div class="post-bottom">
               <div class="reactions-container">
@@ -356,7 +383,9 @@
           </div>
           <div class="post-container post-shadow">
             <div class="post-header">
-              <img src="https://s3.amazonaws.com/uifaces/faces/twitter/isaacfifth/128.jpg" />
+              <img
+                src="https://s3.amazonaws.com/uifaces/faces/twitter/isaacfifth/128.jpg"
+              />
               <div class="post-header-middle">
                 <h4>Roel Powlowski</h4>
                 <span>2 hr</span>
@@ -364,7 +393,10 @@
               <i class="fas fa-ellipsis-h"></i>
             </div>
             <div class="post-content">
-              <span>Ipsa alias iste ipsam totam et quia. Ut nesciunt aut. Est modi ut. Nisi accusamus est eius.</span>
+              <span
+                >Ipsa alias iste ipsam totam et quia. Ut nesciunt aut. Est modi
+                ut. Nisi accusamus est eius.</span
+              >
               <img
                 class="post-image"
                 src="https://pics.me.me/writes-unmaintainable-code-leaves-company-quickmeme-com-programmer-memes-programming-50344201.png"
@@ -411,7 +443,9 @@
           </div>
           <div class="post-container post-shadow">
             <div class="post-header">
-              <img src="https://s3.amazonaws.com/uifaces/faces/twitter/gt/128.jpg" />
+              <img
+                src="https://s3.amazonaws.com/uifaces/faces/twitter/gt/128.jpg"
+              />
               <div class="post-header-middle">
                 <h4>Cleta Langosh</h4>
                 <span>3 hr</span>
@@ -419,7 +453,10 @@
               <i class="fas fa-ellipsis-h"></i>
             </div>
             <div class="post-content">
-              <span>Ipsa alias iste ipsam totam et quia. Ut nesciunt aut. Est modi ut. Nisi accusamus est eius.</span>
+              <span
+                >Ipsa alias iste ipsam totam et quia. Ut nesciunt aut. Est modi
+                ut. Nisi accusamus est eius.</span
+              >
               <img
                 class="post-image"
                 src="https://qph.fs.quoracdn.net/main-qimg-3ad44e4e9b16cce7e941756d49eba556"
@@ -494,62 +531,86 @@
         </div>
         <div class="contact">
           <div class="green-dot"></div>
-          <img src="https://s3.amazonaws.com/uifaces/faces/twitter/victorDubugras/128.jpg" />
+          <img
+            src="https://s3.amazonaws.com/uifaces/faces/twitter/victorDubugras/128.jpg"
+          />
           <span class="contact-name">Leonora Rau</span>
         </div>
         <div class="contact">
           <div class="green-dot"></div>
-          <img src="https://s3.amazonaws.com/uifaces/faces/twitter/themrdave/128.jpg" />
+          <img
+            src="https://s3.amazonaws.com/uifaces/faces/twitter/themrdave/128.jpg"
+          />
           <span class="contact-name">Alexzander Streich</span>
         </div>
         <div class="contact">
           <div class="green-dot"></div>
-          <img src="https://s3.amazonaws.com/uifaces/faces/twitter/isnifer/128.jpg" />
+          <img
+            src="https://s3.amazonaws.com/uifaces/faces/twitter/isnifer/128.jpg"
+          />
           <span class="contact-name">Griffin Simonis</span>
         </div>
         <div class="contact">
           <div class="green-dot"></div>
-          <img src="https://s3.amazonaws.com/uifaces/faces/twitter/albertaugustin/128.jpg" />
+          <img
+            src="https://s3.amazonaws.com/uifaces/faces/twitter/albertaugustin/128.jpg"
+          />
           <span class="contact-name">Marty Schultz</span>
         </div>
         <div class="contact">
           <div class="green-dot"></div>
-          <img src="https://s3.amazonaws.com/uifaces/faces/twitter/jagan123/128.jpg" />
+          <img
+            src="https://s3.amazonaws.com/uifaces/faces/twitter/jagan123/128.jpg"
+          />
           <span class="contact-name">Nona Yost</span>
         </div>
         <div class="contact">
           <div class="green-dot"></div>
-          <img src="https://s3.amazonaws.com/uifaces/faces/twitter/tristanlegros/128.jpg" />
+          <img
+            src="https://s3.amazonaws.com/uifaces/faces/twitter/tristanlegros/128.jpg"
+          />
           <span class="contact-name">Bruce Hahn</span>
         </div>
         <div class="contact">
           <div class="green-dot"></div>
-          <img src="https://s3.amazonaws.com/uifaces/faces/twitter/dgajjar/128.jpg" />
+          <img
+            src="https://s3.amazonaws.com/uifaces/faces/twitter/dgajjar/128.jpg"
+          />
           <span class="contact-name">Elenor Bechtelar</span>
         </div>
         <div class="contact">
           <div class="green-dot"></div>
-          <img src="https://s3.amazonaws.com/uifaces/faces/twitter/laurengray/128.jpg" />
+          <img
+            src="https://s3.amazonaws.com/uifaces/faces/twitter/laurengray/128.jpg"
+          />
           <span class="contact-name">Millie Wisozk</span>
         </div>
         <div class="contact">
           <div class="green-dot"></div>
-          <img src="https://s3.amazonaws.com/uifaces/faces/twitter/steynviljoen/128.jpg" />
+          <img
+            src="https://s3.amazonaws.com/uifaces/faces/twitter/steynviljoen/128.jpg"
+          />
           <span class="contact-name">Alessandro Harris</span>
         </div>
         <div class="contact">
           <div class="green-dot"></div>
-          <img src="https://s3.amazonaws.com/uifaces/faces/twitter/haydn_woods/128.jpg" />
+          <img
+            src="https://s3.amazonaws.com/uifaces/faces/twitter/haydn_woods/128.jpg"
+          />
           <span class="contact-name">Ashton Effertz</span>
         </div>
         <div class="contact">
           <div class="green-dot"></div>
-          <img src="https://s3.amazonaws.com/uifaces/faces/twitter/borantula/128.jpg" />
+          <img
+            src="https://s3.amazonaws.com/uifaces/faces/twitter/borantula/128.jpg"
+          />
           <span class="contact-name">Armani Cole</span>
         </div>
         <div class="contact">
           <div class="green-dot"></div>
-          <img src="https://s3.amazonaws.com/uifaces/faces/twitter/dingyi/128.jpg" />
+          <img
+            src="https://s3.amazonaws.com/uifaces/faces/twitter/dingyi/128.jpg"
+          />
           <span class="contact-name">Alyson Monahan</span>
         </div>
       </div>
@@ -564,7 +625,7 @@
 import axios from "axios";
 export default {
   name: "SignedIn",
-  mounted: async function() {
+  mounted: async function () {
     let continueLoop = true;
     while (continueLoop) {
       let revokeStatus = false;
@@ -585,7 +646,7 @@ export default {
   methods: {
     async logout() {
       let response = await axios.post("/api/logout", {
-        sessionID: this.$root.$data.sessionID
+        sessionID: this.$root.$data.sessionID,
       });
 
       if (response.status == 200) {
@@ -595,9 +656,9 @@ export default {
       }
     },
     checkRevoke(idIn) {
-      let promise = new Promise(function(resolve, reject) {
+      let promise = new Promise(function (resolve, reject) {
         setTimeout(
-          async sessionID => {
+          async (sessionID) => {
             try {
               let response = await axios.get("/api/revoke/" + sessionID);
               resolve(response.data);
@@ -621,7 +682,7 @@ export default {
       return response.data;
     },
     takeABreak() {
-      let promise = new Promise(function(resolve) {
+      let promise = new Promise(function (resolve) {
         setTimeout(
           async () => {
             resolve(false);
@@ -631,8 +692,8 @@ export default {
         );
       });
       return promise;
-    }
-  }
+    },
+  },
 };
 </script>
 

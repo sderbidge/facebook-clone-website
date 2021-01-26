@@ -1,7 +1,6 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Welcome from '../views/Welcome.vue'
-import SignIn from '../views/SignIn.vue'
 import Register from '../views/Register.vue'
 import Home from '../views/Home.vue'
 import Watch from '../views/Watch.vue'
@@ -15,11 +14,6 @@ const routes = [{
     path: '/',
     name: 'Welcome',
     component: Welcome
-  },
-  {
-    path: '/signin',
-    name: 'SignIn',
-    component: SignIn
   },
   {
     path: '/register',
